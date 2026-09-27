@@ -1,0 +1,7 @@
+node_modules/
+dist/
+backend/output/
+backend/remotion/public/audio/
+backend/tmp/
+.env
+*.log
